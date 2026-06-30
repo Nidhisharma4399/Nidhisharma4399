@@ -151,7 +151,6 @@ Features:
 Tech:
 Python • FastAPI • OpenAI GPT-4o • Prompt Engineering • Docker
 
-🔗 https://jarvisai.nidhisharma.online
 
 ---
 
