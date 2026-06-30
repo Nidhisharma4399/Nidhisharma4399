@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi Sharma</h1>
 
 <h3 align="center">
-AI & Full-Stack Engineer • LLM & RAG Architect • Web3 Developer
+AI & Full-Stack Engineer • LLM & RAG Architect • DevOps & Web3 Developer
 </h3>
 
 <p align="center">
@@ -12,40 +12,44 @@ Building production-grade AI applications, RAG systems, blockchain solutions, an
 
 ## 🚀 About Me
 
-🔹 AI & Full-Stack Engineer with 2+ years of experience building production-ready products.
+🔹 AI & Full-Stack Engineer with 2+ years of experience designing and shipping production-grade RAG-based AI applications, decentralized applications (dApps), and high-performance automation systems.
+
+🔹 Currently building an AI-powered document intelligence system at **Schoolio**, using DeepSeek LLM and a RAG pipeline (OKF) over PostgreSQL + pgvector to auto-generate structured exam content from educational PDFs.
 
 🔹 Specialized in:
-- Generative AI & LLM Applications
-- Retrieval-Augmented Generation (RAG)
+- Generative AI & LLM Applications (GPT-4o, DeepSeek, Ollama, Groq)
+- Retrieval-Augmented Generation (RAG) & OKF (Open Knowledge Format)
 - FastAPI & Node.js Backends
 - React.js & Next.js Frontends
-- Blockchain & Smart Contracts
-- Cloud Native Infrastructure
-- DevOps & Kubernetes
-
-🔹 Delivered 6+ production applications with measurable business impact.
+- Blockchain & Smart Contracts (Solidity, Hardhat)
+- Cloud Native Infrastructure & DevOps (Docker, Kubernetes)
 
 🔹 Achievements:
-- ⚡ Improved API performance by 35% using Redis caching
-- 🎯 Increased RAG retrieval accuracy by 40%
-- 🚀 Maintained 99.9% uptime using Docker Blue-Green Deployments
-- 🔐 Built secure JWT + RBAC architectures
-- ⛓️ Developed multiple production-grade Web3 applications
+- ⚡ Reduced API response time by 35% via query optimization, Redis caching, and connection-pool tuning
+- 🎯 Improved RAG retrieval accuracy by ~40%, cutting irrelevant content via embedding similarity search
+- 📉 Achieved 30% reduction in DB query response time
+- 🚀 Maintained 99.9% uptime SLA using Docker/Kubernetes blue-green deployments
+- 🔐 Built secure JWT + RBAC architectures for multi-tenant SaaS apps
+- ⛓️ Built and deployed 5+ production-grade Web3 dApps on Ethereum
 
 ---
 
-## 🌐 Portfolio
+## 💼 Experience
 
-Website: https://nidhisharma.online
+**AI Engineer (LLM & RAG) / Backend Developer** — Schoolio | May 2025 – Present
+**AI & Full-Stack Engineer** — Oklabs | Jan 2024 – May 2025
+**Web3 & MERN Developer** — Dollar Infotech | Jan 2023 – Jan 2024
 
-LinkedIn:
-https://linkedin.com/in/nidhi-s-1237a7288
+---
 
-GitHub:
-https://github.com/Nidhisharma4399
+## 🌐 Connect
 
-Email:
-nidhisharma.protech@gmail.com
+🌐 Portfolio: https://nidhisharma.online
+💼 LinkedIn: https://linkedin.com/in/nidhi-s-1237a7288
+🐙 GitHub: https://github.com/Nidhisharma4399
+📺 YouTube: AI concepts, explained & coded
+📧 nidhisharma.protech@gmail.com
+📍 Neemuch, MP, India (Open to Remote)
 
 ---
 
@@ -59,7 +63,7 @@ nidhisharma.protech@gmail.com
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
 
-OpenAI • DeepSeek • Ollama • Groq • Vector Embeddings • Semantic Search • Prompt Engineering • RAG
+GPT-4o (OpenAI) • DeepSeek • Ollama • Groq (LPU) • RAG Architecture • OKF (Open Knowledge Format) • Prompt Engineering • Vector Databases • Embeddings
 
 ---
 
@@ -70,131 +74,99 @@ OpenAI • DeepSeek • Ollama • Groq • Vector Embeddings • Semantic Searc
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue)
 ![Solidity](https://img.shields.io/badge/Solidity-Web3-black)
 
-Python • JavaScript • TypeScript • Solidity • SQL
+JavaScript (ES6+) • TypeScript • Python • Solidity • SQL • HTML5 • CSS3
 
 ---
 
 ### ⚙ Backend
 
-FastAPI • Node.js • Express.js
+FastAPI • Node.js • Express.js • Strapi (Headless CMS)
 
-REST APIs • JWT Authentication • RBAC
-
-Microservices • Strapi CMS
+REST APIs • GraphQL • JWT Authentication • RBAC • Microservices
 
 ---
 
 ### 🎨 Frontend
 
-React.js
+React.js • Next.js • Wagmi • TypeScript
 
-Next.js
-
-TypeScript
-
-Tailwind CSS
-
-Material UI
-
-Bootstrap
-
-Responsive Design
+Tailwind CSS • MUI • Bootstrap • Responsive Design
 
 ---
 
 ### 🗄 Databases
 
-PostgreSQL
-
-MongoDB
-
-Redis
-
-Pinecone
-
-ChromaDB
-
-Vector Databases
+PostgreSQL • MongoDB • Redis • FAISS • Pinecone • pgvector • Vector Databases
 
 ---
 
 ### ☁️ DevOps & Cloud
 
-Docker
+Docker • Kubernetes (K8s) • Terraform • Ansible
 
-Kubernetes
+Prometheus • Grafana • Loki • CI/CD
 
-Terraform
-
-Ansible
-
-CI/CD
-
-Prometheus
-
-Grafana
-
-Linux
-
-AWS
-
-GCP
+AWS • Linux/WSL • Shell Scripting • Git/GitHub
 
 ---
 
 ### ⛓️ Blockchain & Web3
 
-Solidity
+Solidity • Hardhat • Ethers.js • Viem • Web3.js
 
-Hardhat
-
-Ethers.js
-
-Viem
-
-MetaMask
-
-Smart Contracts
-
-Ethereum
-
-Stripe Payments
+MetaMask • Smart Contracts • Ethereum • Stripe Payments
 
 ---
 
 ## 🏆 Featured Projects
 
+### 📚 SchoolIO ExamForge
+
+AI-Powered Exam Paper & Document Intelligence System
+
+Features:
+- DeepSeek LLM-based PDF Analysis
+- Full RAG Pipeline (OKF): PDF Ingestion → Chunking → Embeddings → pgvector Retrieval
+- Difficulty-Level Question Generation (Easy/Medium/Hard)
+- Dockerized Services + Shell Scripting Automation
+- ngrok-Exposed Secure API Endpoints
+
+Tech:
+Python • FastAPI • DeepSeek LLM • RAG • OKF • pgvector • PostgreSQL • Docker • ngrok
+
+---
+
 ### 🤖 Jarvis AI
+
 LLM-Powered Personal Automation Assistant
 
 Features:
-- WhatsApp Automation
-- Email Automation
-- News Summarization
-- Voice Assistant
-- Mood-Based Recommendations
-- Reminders & Alarms
+- Voice-Enabled Multi-Domain Assistant
+- WhatsApp & Email Automation
+- Real-Time News Summarization
+- Mood-Aware Music Recommendations
+- Smart Reminders & Alarms
+- Blue-Green Deployment (Zero Downtime)
 
 Tech:
-FastAPI • OpenAI • React • MongoDB
+Python • FastAPI • OpenAI GPT-4o • Prompt Engineering • Docker
 
 🔗 https://jarvisai.nidhisharma.online
 
 ---
 
-### 📚 ExamForgee
+### 📝 Examforgee
 
-AI Exam Paper Generator using RAG
+AI Exam Paper Generator (RAG)
 
 Features:
-- PDF Parsing
-- Semantic Chunking
-- Vector Embeddings
-- Dynamic Question Generation
+- PDF Ingestion → Chunking → Vector Embeddings → Semantic Retrieval → LLM Question Generation
+- ~40% Reduction in Irrelevant Content via Embedding Similarity Search
 - Automated Timetable Generation
+- Secure User Authentication
 
 Tech:
-OpenAI • FastAPI • MongoDB • Vector DB
+Python • FastAPI • OpenAI API • FAISS/Pinecone • MongoDB • React.js
 
 🔗 https://examforge.nidhisharma.online
 
@@ -202,16 +174,16 @@ OpenAI • FastAPI • MongoDB • Vector DB
 
 ### 🎓 VidyaAI
 
-AI-Powered Learning Platform
+AI-Driven Educational Platform
 
 Features:
-- AI Quiz Generation
-- Leaderboards
-- Gamification
-- Personalized Learning
+- LLM-Powered Dynamic Quiz Generation
+- RAG Pipeline + OKF for Structured Knowledge Retrieval
+- Leaderboards & Gamification (Badges)
+- 30% Reduction in API/DB Response Time
 
 Tech:
-React • TypeScript • FastAPI
+React.js • Node.js • Express • TypeScript • PostgreSQL • RAG • OKF
 
 🔗 https://vidyaai.nidhisharma.online
 
@@ -219,16 +191,16 @@ React • TypeScript • FastAPI
 
 ### ⛓️ Cudobe
 
-Decentralized Escrow Platform
+Decentralized Escrow & Cross-Border Trade Platform
 
 Features:
-- Smart Contracts
-- ETH Escrow
-- MetaMask Integration
-- Real-Time Blockchain Transactions
+- Trustless ETH Escrow Smart Contracts
+- 100% Transaction Transparency
+- MetaMask Authentication
+- Real-Time On-Chain State Tracking
 
 Tech:
-Solidity • Hardhat • React
+Solidity • Hardhat • React.js • Web3.js • MetaMask
 
 🔗 https://cudobe.nidhisharma.online
 
@@ -239,27 +211,13 @@ Solidity • Hardhat • React
 Fiat-to-Crypto Payment Gateway
 
 Features:
-- Multi-Wallet Support
-- Transaction Ledger
-- Blockchain Payments
+- Type-Safe Blockchain Interactions
+- 60% Less Client-Side Boilerplate via Wagmi Hooks
+- Automated Real-Time On-Chain Transaction Ledger
+- Reduced Transaction Failure Rate
 
 Tech:
-Next.js • Wagmi • Viem
-
----
-
-### 🏢 RapidDial
-
-Business Discovery Platform
-
-Features:
-- Business Listings
-- CMS Management
-- Advanced Search
-- Redux State Management
-
-Tech:
-React • PostgreSQL • Strapi
+Next.js • Viem • Wagmi • TypeScript
 
 ---
 
@@ -282,9 +240,7 @@ React • PostgreSQL • Strapi
 ## 🎓 Education
 
 Bachelor of Computer Applications (BCA)
-
-Gyanodaya University
-
+Gyanodaya University, Neemuch, Madhya Pradesh
 2024 – 2027
 
 Publication:
@@ -294,17 +250,17 @@ Sustainable Development of Science in the Field of Machine Learning
 
 ## 📜 Certifications
 
-✔ Generative AI SQL — Google / Coursera
+✔ Generative AI — Advanced Software Engineering Job Simulation (Forage)
 
-✔ Agile Project Management — PMI
+✔ Fundamentals of Machine Learning and Artificial Intelligence
 
-✔ Junior Cybersecurity Analyst — Cisco
+✔ Junior Cybersecurity Analyst Career Path
 
-✔ DevOps Fundamentals — Linux Foundation
+✔ SQL (Advanced) Certification — HackerRank
 
-✔ CRUD Operations in MongoDB — MongoDB University
+✔ Agile Project Management Certification
 
-✔ ML & AI Fundamentals — Coursera
+✔ Free DevOps Course Certification
 
 ---
 
